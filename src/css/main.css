@@ -1,0 +1,7 @@
+body {
+  background: lemonchiffon;
+}
+.pure-button {
+  border-radius: 1em;
+  font-weight: 600;
+}
